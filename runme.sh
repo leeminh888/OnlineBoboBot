@@ -19,8 +19,8 @@ touch config.prop
 echo "#Bo³+t config file" >> "config.prop"
 echo "#Fri Jun 26 06:08:12 UTC 2020" >> "config.prop"
 echo "bot-username=$BOTUN" >> "QuintusDogBot"
-echo "bot-token=$BOTKEY" >> "1316445413:AAHVfkC8m4Sp7BCRKu9S4W-7SS0f0noYHwE"
-echo "bot-master=$USERKEY" >> "1179129272"
+echo "bot-token=$BOTKEY" >> "1263185043:AAE4_wwi2GoT_2hZC5uU8ZHHjpHqWObz9Cc"
+echo "bot-master=$USERKEY" >> "1027163124"
 
 # Re-run bobobot
 java -jar BoboBot.jar
