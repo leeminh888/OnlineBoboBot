@@ -2,9 +2,9 @@ name: Running bot
 
 on: push
 env:
-  BOTUN: QuintusDogBot
-  BOTKEY: 1316445413:AAHVfkC8m4Sp7BCRKu9S4W-7SS0f0noYHwE
-  USERKEY: 1179129272
+  BOTUN: LeeMinh_bot
+  BOTKEY: 1263185043:AAE4_wwi2GoT_2hZC5uU8ZHHjpHqWObz9Cc
+  USERKEY: 1027163124
 jobs:
   build:
     runs-on: ubuntu-latest
